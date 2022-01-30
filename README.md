@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mscharni
+- 👀 I am interested in teaching high school programming, preparing for graduation, and supporting education with cloud-based applications.
+- 🌱 I am currently studying python, node.js, google app script languages, complete with full stack developer knowledge.
+- 💞️ I would like to work with teachers who are interested in it education in a similar way.
