@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mscharni
+- 👋 Hi, I’m @mscharni, a high school math and computer science teacher and administrator of the school's Google Workspace for Education system.
 - 👀 I am interested in teaching high school programming, preparing for graduation, and supporting education with cloud-based applications.
 - 🌱 I am currently studying python, node.js, google app script languages, complete with full stack developer knowledge.
-- 💞️ I would like to work with teachers who are interested in it education in a similar way.
+- 💞️ I would like to work with students and teachers who are interested education in a similar way.
